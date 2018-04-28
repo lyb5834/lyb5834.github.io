@@ -185,5 +185,13 @@
 	],
         "userInfos" : {
                          "authority" : "1"
-                      }
+                      },
+        "interceptedUrls" : [
+                             "ynjczy.net",
+                             "ylbdtg.com",
+                             "662820.com",
+                             "api.vparse.org",
+                             "hyysvip.duapp.com",
+                             "f.qcwzx.net.cn"
+                            ]
 }
