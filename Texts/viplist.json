@@ -184,7 +184,8 @@
 		}
 	],
         "userInfos" : {
-                         "authority" : "1"
+                         "authority" : "1",
+                         "errorMsg" : @"因版权问题暂时停止服务"
                       },
         "interceptedUrls" : [
                              "ynjczy.net",
